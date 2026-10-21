@@ -12,5 +12,5 @@ The repository contains a progressive exploration of model architectures, struct
 4.  SAML_Model05_Ensemble.ipynb : Final production framework combining the strengths of the top-performing base models into an  Ensemble method  to maximize overall robustness and predictive consistency.
 
 Key Methodology Highlights
-Handling Class Imbalance:  Applied technique variations (e.g., SMOTE, downsampling) to address the extreme scarcity of suspicious transactions in financial datasets.
+Handling Class Imbalance:  Applied technique variations downsampling to address the extreme scarcity of suspicious transactions in financial datasets.
 Evaluation Criteria:  Prioritized  Recall  and  F1-Score  over standard accuracy, ensuring that critical suspicious activities are not missed (minimizing false negatives) while maintaining practical operational limits on false alarms.
