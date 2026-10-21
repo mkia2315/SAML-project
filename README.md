@@ -19,33 +19,5 @@ Evaluation Criteria:  Prioritized  Recall  and  F1-Score  over standard accuracy
 
 
 
-
-
-
-
-
-
-\## Setup and Installation
-
-
-
-To run the notebooks in this project, you need to install the required Python libraries. 
-
-
-
-1\. Clone or download this repository to your machine.
-
-2\. Open your terminal inside the project folder.
-
-3\. Run the following command to automatically install all dependencies:
-
-
-
-```bash
-
-pip install -r requirements.txt
-
-```
-
-
+To install all required libraries, open your terminal in the project folder and run: `pip install -r requirements.txt`
 
